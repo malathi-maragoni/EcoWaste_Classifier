@@ -6,3 +6,5 @@ cd EcoWaste_Classifier
 python train_model.py
 
 python app.py
+
+deploy :  https://ecowaste-classifier-3.onrender.com
